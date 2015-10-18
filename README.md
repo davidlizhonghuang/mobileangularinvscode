@@ -1,6 +1,6 @@
 # build an angular js front end web page in visual studio code editor
 
-visual studio code editor is the new coding tool Microsoft invented to allow .net developer to develop non .net web application for mobile strategy. visual studio editor is Node js based. when we say .net applicaiton, we say it is run under .net 2.0... framework, now visual studio editor use node js framework to develop js server back end for modern mobile application, .net is no place here. what .net can do here is to provide restful APIs for those front end.
+visual studio code editor is the new coding tool Microsoft invented to allow .net developer to develop non .net web application for mobile strategy. visual studio editor is Node js based. when we say .net applicaiton, we say it is run under .net 2.0... framework, now visual studio editor use node js framework to develop js server back end for modern mobile application, .net has no space here. what .net can do here is to provide restful APIs for those front end.
 
 however, node js has its own backend, that is JSON server with MongoDB, therefore, using visual studio editor
 
@@ -46,7 +46,7 @@ download node.exe from internet and install it to window 10
 
 18, open internet explorer in window 10 (edge), input link http://localhost:3001 and return, you can see index page is displayed properly.
 
-19, add angular js code into html page. keep in mind node js does not use angular js as back end code, so app.js does not contain any angular js.
+19, add angular js code into html page. 
 
 20, run visual studio code, you now can see angular js enabled SPA html page .
 
