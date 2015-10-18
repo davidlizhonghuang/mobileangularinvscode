@@ -2,9 +2,7 @@
 
 visual studio code editor is the new coding tool Microsoft invented to allow .net developer to develop non .net web application for mobile strategy. visual studio editor is Node js based. when we say .net applicaiton, we say it is run under .net 2.0... framework, now visual studio editor use node js framework to develop js server back end for modern mobile application, .net is no place here. what .net can do here is to provide restful APIs for those front end.
 
-however, node js has its own backend, that is JSON server with MongoDB, therefore, using visual studio editor, .net developer has to learn the new technology.
-
-I am learning this new development tool for developing next mobile web applications
+however, node js has its own backend, that is JSON server with MongoDB, therefore, using visual studio editor
 
 Steps to get started here is listed below
 
